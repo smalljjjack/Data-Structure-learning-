@@ -1,0 +1,2 @@
+homework 6 start to implements hashChain. HashChain is a very interesting data structure, it store elements separately by their attributes which improve the searching efficiency hugely. Each edge of the chain is a list, only elements have requirement attribute could be store in same chain. 
+And a board test have been past.
