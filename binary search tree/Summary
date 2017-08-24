@@ -1,0 +1,2 @@
+Binary search Tree is a special kind of binary tree. As the regular binary tree, each treenode has most 2 children. While in BST, 
+the left child is always less than it's parent, right child is always bigger than it's parent.
