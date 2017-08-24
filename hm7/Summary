@@ -1,0 +1,4 @@
+homework 7 required student to build the 234 tree by themselves. 234 Tree is a very special tree, each node of the tree 
+could have most 4 children, and the key(2,3,4) sign how many kids of a specific node has.  Each node could have most 3 vals, 
+and the their children's position will be decided by the 3 val. Whenever a node may have more 
+than 3 val or 4 children or will be possible for breaking the rule, the tree will do some transform to keep the rule.
