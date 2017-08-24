@@ -1,0 +1,3 @@
+CS_61B homework 8 asked students implement queue data structure. Students need to finish the tree, 
+enqueue and dequeue method. Queue store the data by list and each node in its list will record its next node.
+enqueu method will add an node to the list tail, dequeue will remove the head node from the list.
